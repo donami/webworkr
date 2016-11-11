@@ -1,0 +1,40 @@
+{
+  "name": "proj",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-browserify": "*",
+    "debowerify": "*",
+    "envify": "*",
+    "grunt-msx": "*",
+    "grunt-include-replace": "*",
+    "grunt-contrib-htmlmin": "*",
+    "grunt-contrib-jasmine": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-rev": "*",
+    "grunt-shell": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-usemin": "*",
+    "grunt-modernizr": "*",
+    "grunt-newer": "*",
+    "grunt-svgmin": "*",
+    "grunt-concurrent": "*",
+    "load-grunt-tasks": "*",
+    "time-grunt": "*",
+    "jshint-stylish": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

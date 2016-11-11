@@ -1,0 +1,55 @@
+{
+  "platsannons": {
+    "annons": {
+      "annonsid": "20613572",
+      "platsannonsUrl": "http://www.arbetsformedlingen.se/ledigajobb?id=20613572",
+      "annonsrubrik": "Webbdesigner",
+      "annonstext": "Som webbdesigner och teknisk administratör på Input interiör blir du en del av marknadsavdelningen på vårt huvudkontor i Göteborg. Teamet består idag av fyra personer i rollerna marknadskoordinator, kommunikatör, grafisk producent och marknadsassistent. Din främsta uppgift som webbdesigner är att förverkliga och paketera idéer till kreativa och användarvänliga lösningar på våra digitala plattformar. Du kommer mer eller mindre dagligen att uppdatera och utveckla vår sajt parallellt med allmänna arbetsuppgifter på vår marknadsavdelning. Vi uppskattar medarbetare som tar stort ansvar, har gott driv och bidrar till vår gemensamma ambition om det ledande inredningsföretaget.\n\nVi tror att du har en relevant utbildning och erfarenhet inom webbutveckling eller webbdesign. Du har en gedigen teknisk kunskap och en känsla för det kreativa. Ett intresse för god design är meriterande men vi ser framförallt att du brinner för webbdesign. Du tycker om utmaningar och håller dig uppdaterad om de senaste funktionerna. Personen vi söker uppskattar ett högt tempo och snabba beslutsvägar, är flexibel, prestigelös och kan bira med positiv energi.  \n\nFör att lyckas som webbdesigner hos oss bör du behärska: \n•    HTML\n•    CSS\n•    PHP\n•    Javascript\n•    SQL\n•    SEO/SEM\n•    CMS-verktyg, framförallt Wordpress\n\nNär Input interiör startades 1987 var drömmen att skapa ett inredningsföretag som var oberoende och jobbade med god design. I  dag  är  det  verklighet.  Input  interiör  är  Skandinaviens  ledande  oberoende  inredningskoncern  med  unik  kompetens  inom inredning av kontor och näringsliv, hotell och restaurang, skola och utbildning samt vård och omsorg. Vi är 370 medarbetare, finns på 21 orter från Luleå i norr till Malmö i söder och omsätter 1,65 miljarder SEK",
+      "yrkesbenamning": "Webbdesigner",
+      "yrkesid": 3919,
+      "publiceraddatum": "2016-11-02T00:00:00+01:00",
+      "antal_platser": "1",
+      "kommunnamn": "Göteborg",
+      "kommunkod": 1480,
+      "antalplatserVisa": 1,
+      "anstallningstyp": "Vanlig anställning"
+    },
+    "villkor": {
+      "varaktighet": "Tillsvidare",
+      "arbetstid": "Heltid",
+      "arbetstidvaraktighet": "Input interiör tillämpar 6 månaders provanställning",
+      "lonetyp": "Fast månads- vecko- eller timlön"
+    },
+    "ansokan": {
+      "epostadress": "webbdesigner@inputinterior.se",
+      "sista_ansokningsdag": "2016-11-18T23:59:59+01:00",
+      "ovrigt_om_ansokan": "Välkommen med din ansökan, CV och löneanspråk senast den 18/11 2016. Ansökan mailas till webbdesigner@inputinterior.se"
+    },
+    "arbetsplats": {
+      "arbetsplatsnamn": "INPUT INTERIÖR SWEDEN AKTIEBOLAG",
+      "postnummer": "42130",
+      "postadress": "FÄLTSPATSGATAN 2",
+      "postort": "VÄSTRA FRÖLUNDA",
+      "postland": "Sverige",
+      "land": "Sverige",
+      "besoksadress": "Fältspatsgatan 2",
+      "besoksort": "Västra Frölunda",
+      "telefonnummer": "0317998900",
+      "epostadress": "info@inputinterior.se",
+      "hemsida": "http://www.inputinterior.se",
+      "kontaktpersonlista": {
+        "kontaktpersondata": [
+          {
+            "namn": "Johan Olsson",
+            "titel": "Marknadskoordinator",
+            "telefonnummer": "0317998907",
+            "epostadress": "johan.o@inputinterior.se"
+          }
+        ]
+      }
+    },
+    "krav": {
+      "egenbil": false
+    }
+  }
+}

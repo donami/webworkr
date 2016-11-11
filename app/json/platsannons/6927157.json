@@ -1,0 +1,44 @@
+{
+  "platsannons": {
+    "annons": {
+      "annonsid": "6927157",
+      "platsannonsUrl": "http://www.arbetsformedlingen.se/ledigajobb?id=6927157",
+      "annonsrubrik": "WEB APPLICATION DESIGNER",
+      "annonstext": "Snow’s mission is to stop organizations overpaying for the software they use, today and tomorrow. We help organizations optimize software availability, compliance and cost savings through delivery of on premise and cloud-based Software Asset Management solutions. Today we are the largest and most successful dedicated developer of SAM solutions with staff all over the world in regional locations. To sustain our explosive growth, we are looking for the brightest, and most highly-skilled people who have their best work ahead of them. Now is the right time to join Snow.\r\n\r\nWE ARE NOW LOOKING FOR A WEB APPLICATION DESIGNER\n\nOur designer duo needs their third musketeer!  As a Web Application Designer at Snow you will work cross 3 product teams supporting developers, product owners as well as internal stakeholders. We need a wizard of usability who understands how that magic creates value for our customers. You will work closely together with your team mates in developing new concepts and components to ensure great user experience for our customers.\n\nWe are currently working with our own developed UI framework using atomic design principles in pattern lab. Our pattern lab is our living style guide that help us create the overall consistency, look and feel of our products. The framework is web technology independent to make sure it is applicable cross product. Our solutions are developed using different technologies such as Node, AngularJS or Knockout. \n\nYOU ARE GREAT AT\n\n• Photoshop / Illustrator\n• CSS3/ Pre-processors LESS or SASS\n• Naming methodologies like BEM, eCSS or similar\n• HTML5\n• Responsive web design\n• Cross browser compatibility\n• Driven Design Systems (Atomic design/PatternLab)\n\n\nAs the third musketeer you have a great passion for UI design and keep up with the latest design trends. You have a product mindset to create that familiar feeling in between all of our products. You need to be able to transfer the design into reality with skills in HTML and CSS. Ideally you also know JavaScript to contribute in adding functionality to our designs.              \n\nHOPEFULLY YOU ALSO KNOW\n\n• JavaScript and different JavaScript frameworks (jQuery, Knockout.js, Angular JS)\n• Web frameworks, Bootstrap, HTML5 Boilerplate\n• Application design for desktops\n• Git version control\n\n\nJOIN US\n\nThis is a chance for you to accelerate your career and succeed in an environment where you will have the possibility to make a daily impact, where we will empower you and want you to act bravely. Every day you will get to work alongside helpful and down-to-earth colleagues who are dedicated and ambitious. Together we create a passionate environment that drives Snow forward. If you are the right person for the role we you will get to be part of a fantastic journey within a dynamic high-growth business.\n\nWe look forward to your application!",
+      "yrkesbenamning": "Webbdesigner",
+      "yrkesid": 3919,
+      "publiceraddatum": "2016-11-07T17:15:24.347+01:00",
+      "antal_platser": "1",
+      "kommunnamn": "Solna",
+      "kommunkod": 184,
+      "antalplatserVisa": 1,
+      "anstallningstyp": "Vanlig anställning"
+    },
+    "villkor": {
+      "varaktighet": "Tillsvidare",
+      "arbetstid": "Heltid",
+      "arbetstidvaraktighet": "Heltid\r\n-",
+      "lonetyp": "Fast månads- vecko- eller timlön",
+      "loneform": "Enligt överenskommelse"
+    },
+    "ansokan": {
+      "referens": "",
+      "webbplats": "http://www.snowsoftware.com/int/careers/why-work-snow-software?aguid=177E34E48526492BAF619EC9AA6DFC77",
+      "sista_ansokningsdag": "2016-12-07T00:00:00+01:00",
+      "ovrigt_om_ansokan": ""
+    },
+    "arbetsplats": {
+      "arbetsplatsnamn": "Snow Software",
+      "postnummer": "17154",
+      "postadress": "Anderstorpsvägen 12",
+      "postort": "Solna",
+      "postland": "Sverige",
+      "land": "Sverige",
+      "besoksadress": "Anderstorpsvägen 12",
+      "hemsida": "www.snowsoftware.com"
+    },
+    "krav": {
+      "egenbil": false
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "platsannons": {
+    "annons": {
+      "annonsid": "0016-610315",
+      "platsannonsUrl": "http://www.arbetsformedlingen.se/ledigajobb?id=0016-610315",
+      "annonsrubrik": "Lead PHP + MySQL Back-End Developer",
+      "annonstext": "Multilotto is one of the world's largest online lottery sites, offering licensed and trustworthy lotteries throughout the world.\r\n\r\nOur success comes from our desire to constantly improve our product offering and give our customers the best, most varied gaming experience. Multilotto is expanding aggressively and is constantly looking for experienced individuals who want to join our success story.\r\n\r\nWhat we are looking for\r\nWe are looking for an experienced Back-end developer to join our IT team. In this role you will be a central point of integration for our different system components and will be working with experienced engineers, devops and product managers in a challenging, stimulating expanding environment.\r\n\r\nBack-end developer HP, problem-solving attitude problem \r\n\r\n\r\nYou are expected to work independently and deliver high quality code in a timely manner across a variety of product engagements. You look for ways to improve our stack and constantly pay off technical debt and you pride yourself in being a quick learner of various technologies. We believe you recognize yourself in some or all of the following;\r\n\r\n? More than 2 years of work experience as a Back-end developer\r\n? Experience with PHP. If you have solid experience with other technologies but are willing to use PHP, then we're ready to talk\r\n? Fluent in SQL\r\n? Can find your way around a Linux environment\r\n? Ability to work in areas outside of our usual comfort zone, and get things done quickly\r\n? Teamwork skills with a problem-solving attidude\r\n\r\nAs a person, you are curious, problem solving and ambitious. You shall see problems as a challenge and not as an obstacle. As Multilotto needs to remain different, we gladly see candidates from other backgrounds and industries. Diversity, culture and values are the foundation we stand on and our catalyst for excellence.\r\n\r\nWhat you will do\r\n? Participate in the entire application lifecycle, focusing on coding and debugging\r\n? Write clean code to develop functional web applications\r\n? Troubleshoot and debug applications\r\n? Gather and address technical and design requirements\r\n? Build reusable code and libraries for future use\r\n? Liaise with developers, designers and system administrators to identify new features\r\n? Follow emerging technologies\r\n\r\nWhat we offer\r\n? Challenging and diverse tasks in a fast moving environment\r\n? An ambitious and dedicated team of skilled and experienced colleagues\r\n? Competitive base pay\r\n? A great culture that stresses teamwork, high standards for execution, and not taking oneself too seriously.\r\n? An exciting job in a continually growing company\r\n? The role is based in our Malta office\r\n? Great coffee",
+      "yrkesbenamning": "Programmerare, webbspel",
+      "yrkesid": 7435,
+      "publiceraddatum": "2016-11-03T14:10:21.820+01:00",
+      "antal_platser": "1",
+      "kommunnamn": "",
+      "kommunkod": 0,
+      "antalplatserVisa": 1,
+      "anstallningstyp": "Utlandsjobb"
+    },
+    "villkor": {
+      "varaktighet": "Tillsvidare",
+      "arbetstid": "Heltid",
+      "arbetstidvaraktighet": "Full time",
+      "tilltrade": "",
+      "lonetyp": "Fast månads- vecko- eller timlön",
+      "loneform": "Salary: 3000 - 3500 euro/month"
+    },
+    "ansokan": {
+      "epostadress": "eures.recruitment.jobsplus@gov.mt",
+      "sista_ansokningsdag": "2016-12-02T00:00:00+01:00",
+      "ovrigt_om_ansokan": "How to apply\r\nPlease send your CV and covering email in English to eures.recruitment.jobsplus@gov.mt.\r\nPlease quote the vacancy title in your email."
+    },
+    "arbetsplats": {
+      "arbetsplatsnamn": "Multi Warehouse Ltd",
+      "postnummer": "",
+      "postadress": "ZBG Haz-Zebbug",
+      "postort": "ZBG HAZ-ZEBBUG",
+      "postland": "MALTA",
+      "land": "Malta",
+      "besoksadress": "CENTRAL BUSINESS CENTRE MDINA ROAD 1ST FLOOR",
+      "telefonnummer": "+35621460200",
+      "faxnummer": "",
+      "epostadress": "",
+      "hemsida": ""
+    },
+    "krav": {
+      "egenbil": false
+    }
+  }
+}
