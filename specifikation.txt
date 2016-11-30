@@ -1,0 +1,64 @@
+Det här projektet består utav en webbapplikation som använder sig av arbetsförmedlingens
+API.
+
+Jag har valt att kalla projektet Webworkr och tanken med applikationen är att man ska
+hitta jobb inom webbutvecklingsbranschen på ett snyggt sätt.
+
+## Startsida
+
+Sidan har en startsida där det står lite vad sidan handlar om med en liten välkomsttext och lite bilder.
+
+
+## Lista
+
+Via menyn går det att komma till en lista över jobbannonser inom webbutvecklingsbranschen. Man når dena sida
+via länken "Lediga jobb".
+
+## Jobbannons
+
+Klickar man på en annons kommer man till en sida om själva annonsen där man får mer information och hur man söker till jobbet.
+
+Det står även lite information om typen av anställning, om det är heltid med mera, samt om det finns krav på körkort.
+
+## Om sidan
+
+Via menyn kan man nå en about-sida om sidan. Där står det ytterligare lite information om sidan och vad dess syfte är.
+
+
+## Filter
+
+Man kan se en lista över jobbannonser inom webb. Denna listan går att filtrera på olika sätt.
+Bland annat hämtar den en lista över t.ex kommuner och yrkesbenämningar som de annonser för tillfället finns.
+
+Man kan då klicka på en "tag" för vald kommun eller yrkesbenämning så filtreras listan utifrån ens tags.
+
+Man kan välja flera olika exempelvis Stockholm, Malmö, Webbtekniker och Webbdesigner.
+Då matchar den de annonser som uppfyller alla krav och visar endast dem i listan.
+
+Det går även att söka på annonsens rubrik, detta går också att kombinera med tagsen man filtrerat efter.
+
+
+## Bokmärken
+
+En annan funktion är att man kan lägga till bokmärken på de annonser man tycker är intressanta.
+För att sedan kunna gå igenom de man bokmärkt. Bokmärkena går att spara i localStorage så att de finns kvar om man laddar om sidan.
+
+Det går att lägga till, ta bort, spara och rensa bokmärken.
+
+
+## Valda datakällor
+
+Sidan använder sig utav Arbetsförmedlingens API.
+
+Jag använder mig utav:
+
+platsannonser/matchning/?nyckelord=web för att hämta jobbannonser som berör webbområdet.
+
+Resultatet skrivs ut till filen "web.json".
+
+Denna filen läses sedan in och jag plockar ut "annonsid" till en array som jag sedan loopar igenom och hämtar varje specifik annons.
+Resultatet skrivs sedan till filer som sidan använder sig utav.
+
+Datan för varje annons hämtas från platsannonser/[annonsid]
+
+Jag använder mig utav "jq" för att hantera datan.

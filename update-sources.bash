@@ -1,38 +1,31 @@
 #!/usr/bin/env bash
 
-#curl -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "http://api.arbetsformedlingen.se/af/v0/platsannonser/soklista/kommuner?lanid=10"
-
 URL="http://api.arbetsformedlingen.se/af/v0/"
 
-# curl -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "http://api.arbetsformedlingen.se/af/v0/platsannonser/soklista/yrkesomraden" | jq . > "json/yrkesomraden.json"
-
-
-# Todo:
-# Need to filter out the ads in the category we are interested in
-# then scrape them, to get each individual ad and place them in app/json/platsannons/[id].json
-
-
-
-#curl -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "http://api.arbetsformedlingen.se/af/v0/platsannonser/soklista/yrken/webb" | jq . > "app/json/yrkesomraden.json"
-
-#curl -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "http://api.arbetsformedlingen.se/af/v0/platsannonser/6831947" | jq . > "app/json/platsannons/6831947.json"
-
-
-# Get "yrke"
-# curl -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "http://api.arbetsformedlingen.se/af/v0/platsannonser/matchning?yrkesid=3919" | jq . > "app/json/yrke/3919.json"
-
+WRITTEN=false
 
 # Search for web
-curl -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "${URL}platsannonser/matchning/?nyckelord=web" | jq . > "app/json/search/web.json"
+if curl --fail -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "${URL}platsannonser/matchning/?nyckelord=web" | jq . > "json/search/web.json"; then
+    echo "Data written to 'json/search/web.json"
+    WRITTEN=true
+else
+    echo "Failed when writing to 'json/search/web.json'"
+fi
 
-arr=( $(jq .matchningslista.matchningdata[].annonsid "app/json/search/web.json") )
+if [ "$WRITTEN" = true ]; then
+    arr=( $(jq .matchningslista.matchningdata[].annonsid "json/search/web.json") )
 
-for id in ${arr[@]}
-do
-    # Remove quote in beginning
-    id="${id#\"}"
-    # Remove quote in end
-    id="${id%\"}"
+    for id in ${arr[@]}
+    do
+        # Remove quote in beginning
+        id="${id#\"}"
+        # Remove quote in end
+        id="${id%\"}"
 
-    curl -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "${URL}platsannonser/$id" | jq . > "app/json/platsannons/$id.json"
-done
+        if curl --fail -H "Accept: application/json" -H "Content-Type: application/json" -H "Accept-Language: sv" "${URL}platsannonser/$id" | jq . > "json/platsannons/$id.json"; then
+            echo "Data written to 'json/platsannons/$id.json'"
+        else
+            echo "Failed when writing to 'json/platsannons/$id.json'"
+        fi
+    done
+fi

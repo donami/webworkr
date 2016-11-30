@@ -1,0 +1,52 @@
+{
+  "platsannons": {
+    "annons": {
+      "annonsid": "6930299",
+      "platsannonsUrl": "http://www.arbetsformedlingen.se/ledigajobb?id=6930299",
+      "annonsrubrik": "Frontend samt Backend -utvecklare till Växjö",
+      "annonstext": "Om oss\n\nInpeople är en HRM-partner till många av Sydostregionens mest framgångsrika företag. Vi erbjuder rekrytering, personaluthyrning och organisationsutveckling inom alla personalkategorier. Vår nisch är företag som vill ha hög kvalitet och ett perfekt resultat. Vi har huvudkontor i Växjö och cirka 150 anställda. Inpeople är ett auktoriserat rekryterings- och bemanningsföretag.\n\nDina arbetsuppgifter\n\nTill ett flertal tjänster i Växjö söker vi nu utvecklare med kunskaper inom frontend eller backend utveckling. Våra kunder finns inom olika fält, allt från den mindre men offensiva webbyrån till det större etablerade spelutvecklingsbolaget. \n\nDin profil\n\nÖnskemål Frontend: Vi ser gärna att du som är intresserad av tjänster inom frontend utveckling har breda kunskaper inom React, Angular eller annat JavaScriptsramverk och har god kännedom om teknikerna runt browsern.\n\nÖnskemål Backend: Inom backend utveckling är du specialiserad eller brett kunnig inom t.ex. Wordpress, Node JS, Ruby on Rails, .NET eller annat relevant ramverk. Vi ser även gärna att du som är van programmerare inom C++ eller C# söker.\n\nDe flesta av våra uppdrag ämnar leda till en tillsvidareanställning hos kundföretaget, vi erbjuder även konsulttjänster till våra kunder. \nSom konsult på Inpeople har du en passion för att ge service. Du förstår att stort engagemang är avgörande för att ha nöjda kunder. Du tycker om att ta ansvar och kan fullt ut stå bakom vår laganda som vi kallar Inspirit. Då urval sker löpande ser vi fram emot din ansökan redan idag. Välkommen med din ansökan!",
+      "yrkesbenamning": "Programmerare, webbspel",
+      "yrkesid": 7435,
+      "publiceraddatum": "2016-11-09T14:32:10.363+01:00",
+      "antal_platser": "2",
+      "kommunnamn": "Växjö",
+      "kommunkod": 780,
+      "antalplatserVisa": 1,
+      "anstallningstyp": "Vanlig anställning"
+    },
+    "villkor": {
+      "varaktighet": "Tillsvidare",
+      "arbetstid": "Heltid",
+      "arbetstidvaraktighet": "Heltid\r\ntillsvidareanställning",
+      "lonetyp": "Fast månads- vecko- eller timlön",
+      "loneform": "Enligt överenskommelse"
+    },
+    "ansokan": {
+      "referens": "444",
+      "webbplats": "http://www.inpeople.se/arbete-karriar/lediga-jobb/?jaid=444",
+      "sista_ansokningsdag": "2016-11-24T00:00:00+01:00",
+      "ovrigt_om_ansokan": "Vi föredrar ansökningar via webben"
+    },
+    "arbetsplats": {
+      "arbetsplatsnamn": "Inpeople Sverige AB",
+      "postnummer": "35231",
+      "postadress": "Norrgatan 22, 3tr",
+      "postort": "Växjö",
+      "postland": "Sverige",
+      "land": "Sverige",
+      "besoksadress": "Norrgatan 22, 3tr, Växjö",
+      "hemsida": "http://www.inpeople.se",
+      "kontaktpersonlista": {
+        "kontaktpersondata": [
+          {
+            "namn": "Christoffer Petrén",
+            "telefonnummer": "0470-740080"
+          }
+        ]
+      }
+    },
+    "krav": {
+      "egenbil": false
+    }
+  }
+}

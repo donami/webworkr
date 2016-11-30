@@ -1,0 +1,56 @@
+{
+  "platsannons": {
+    "annons": {
+      "annonsid": "20620259",
+      "platsannonsUrl": "http://www.arbetsformedlingen.se/ledigajobb?id=20620259",
+      "annonsrubrik": "SEO CONTENT MANAGER",
+      "annonstext": "Arbetsbeskrivning:\nÖvergripande så består en del av rollen av att vara delaktig i affärsutvecklingen, strategi och planering samt kunskapsspridning inom SEO. Den andra delen av rollen består av att vara ansvarig för att planera, leda och genomföra flera SEO-uppdrag men även en hel del SEO optimerad skrivande och projektering kring olika sidor. Detta inkluderar allt från projektsetup, projektplanering till rapportering.\n\nAffärsutveckling och kompetensutveckling:\n• Visa ett personligt intresse av att följa trender inom SEO, för att ständigt utveckla befintliga ”best practice” och tekniker för att säkerställa ett optimalt resultat.\n• Identifiera och genomföra förbättringar gällande produktivitet inom SEO-området.\n• Vara delaktig i utveckling av vårt egna webshop-system.\n\nPlanering, ledning och genomförande av SEO-uppdrag:\n• Tillhandahålla SEO-expertis gällande sökordsanalys, on-page optimering, rapportering, länkattraktionskampanjer och tekniska riktlinjer.\n• Genomföra taktiska och strategiska ingrepp för att förbättra våra webbplatsers trafik och konverteringsprestanda vilket lämpligen omfattar något av följande: länkattraktion, planering och produktion av innehåll, teknisk webbanalys etc.\n\nVi söker dig som vågar ge allt för att uppnå uppsatta mål. Du är självgående och vågar ta initiativ. Vi som arbetar inom NTTAB har en stark passion och engagemang för det vi gör och fokuserar alltid på resultat. För att trivas hos oss tror vi att du är en person som gillar högt tempo och strävar efter att både utveckla dig själv och ditt arbete. Du erbjuds en ansvarsfull och stimulerande tjänst i ett företag under stark tillväxt och för rätt person finns stora möjligheter att utvecklas.\n\nVem söker vi?\n• Dokumenterad operativ SEO-erfarenhet.\n• Erfarenhet av att driva SEO-projekt.\n• Erfarenhet av relevanta SEO-verktyg.\n• Tidigare erfarenhet av webbutveckling är ett plus.\n\nKompetenser:\n• Kunna identifiera problem och möjligheter på en webbplats, samt kommunicera och prioritera hur man bäst tar itu med dem.\n• Kunna optimera sidinnehåll för att öka den organiska synligheten och driva trafik till webbplatsen.\n• Kunna analysera stora mängder data och sedan rapportera resultaten på ett pedagogiskt sätt.\n• Kunna diagnoserna och kommunicera troliga anledningar till rank- och trafikförändringar.\n• Kunna läsa och förstå optimeringstaggar i HTML.\n• Kunna arbeta självständigt men även ha förmågan att fördela uppgifter som arbetspaket.\n• En förmåga att hantera flera projekt, att driva igenom uppsatta planer och att leverera resultat efter målsättning.\n• Bekant med AJAX, HTML5 och andra tekniker på en webbplats och deras begränsningar/tekniska frågor.\n• Känna till skillnaden mellan front- och backend-utveckling utifrån styrkor och svagheter gentemot SEO.\n• Ha en god förståelse för digital marknadsföring och synergieffekter mellan SEO och andra kanaler som SEM, sociala medier m.fl.\n\nVi på Nordic Trade Tower AB (NTTAB) är specialister på webhandel och har flera hemsidor själva som vi bedriver.\nVi satsar på att ha kompetens i företaget då vi växer stadigt och satsar på nya marknader.\nDenna tjänst är ämnad för distans eller på vårt kontor i Solna, detta kan diskuteras.",
+      "yrkesbenamning": "Webmaster",
+      "yrkesid": 2525,
+      "publiceraddatum": "2016-11-11T00:00:00+01:00",
+      "antal_platser": "1",
+      "kommunnamn": "Solna",
+      "kommunkod": 184,
+      "antalplatserVisa": 1,
+      "anstallningstyp": "Vanlig anställning"
+    },
+    "villkor": {
+      "varaktighet": "Tillsvidare",
+      "arbetstid": "Heltid",
+      "arbetstidvaraktighet": "Tjänsten:\nTjänsten är en tillsvidaretjänst med provanställning om 6 månader och avser heltid på distans med möten på vårt kontor i Solna.",
+      "lonetyp": "Fast månads- vecko- eller timlön",
+      "loneform": "Ersättning:\nFast månadslön efter överenskommelse.\n\nKontakt:\nSkicka in din ansökan redan idag då intervjuer sker löpande. Maila in CV, personligt brev och foto till simon@nordictradetower.com.\n\nVälkommen med din ansökan!"
+    },
+    "ansokan": {
+      "referens": "SEO jobb",
+      "epostadress": "simon@nordictradetower.com",
+      "sista_ansokningsdag": "2016-11-30T23:59:59+01:00",
+      "ovrigt_om_ansokan": "Deadline:\nAnställning omgående. Start enligt överenskommelse."
+    },
+    "arbetsplats": {
+      "arbetsplatsnamn": "Nordic Trade Tower AB",
+      "postnummer": "16959",
+      "postadress": "Södra Långgatan 21",
+      "postort": "Solna",
+      "postland": "Sverige",
+      "land": "Sverige",
+      "besoksadress": "Södra Långgatan 21",
+      "besoksort": "Solna",
+      "telefonnummer": "087300070",
+      "epostadress": "simon@nordictradetower.com",
+      "kontaktpersonlista": {
+        "kontaktpersondata": [
+          {
+            "namn": "Simon Davari",
+            "titel": "HR",
+            "telefonnummer": "087300071",
+            "epostadress": "simon@nordictradetower.com"
+          }
+        ]
+      }
+    },
+    "krav": {
+      "egenbil": false
+    }
+  }
+}

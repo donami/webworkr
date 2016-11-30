@@ -1,0 +1,342 @@
+$fa-font-path: '../bower_components/font-awesome/fonts';
+@import '../bower_components/font-awesome/scss/font-awesome';
+$icon-font-path: '../bower_components/sass-bootstrap/fonts/';
+@import '../bower_components/sass-bootstrap/lib/bootstrap';
+@import 'custom_mixins.scss';
+/* This is your main css file */
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+/* Space out content a bit */
+
+html,
+body {
+    height: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    // background: url(../images/body.png);
+    background: #fff;
+    color: #666;
+    padding-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+@media screen and (max-width:680px) {
+    .head-wrap .head .menu .menu-item {
+        display: none !important;
+    }
+    .head-wrap .head .menu .icon {
+        display: block !important;
+    }
+}
+
+.dropbtn {
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    display: block;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100%;
+    top:60px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.head-wrap {
+    .head {
+        border-bottom: #FA6900 1px solid;
+        color: #F38630;
+        margin-bottom: 40px;
+
+        .menu {
+            float: right;
+            top: 20px;
+            right: 20px;
+
+            a.icon {
+                width: 100px;
+                text-align: right;
+                margin-right: none;
+            }
+
+            a.menu-item {
+                margin-right: 30px;
+            }
+
+            a.menu-item, a.icon {
+                color: inherit;
+                text-transform: uppercase;
+                display: block;
+                float: left;
+                margin-top: 40px;
+                border-bottom: transparent 3px solid;
+                padding: 0 10px;
+                font-family: 'Source Sans Pro', sans-serif;
+
+                &:hover {
+                    text-decoration: none;
+                    color: #FA6900;
+                }
+
+                &.icon {
+                    display: none;
+                }
+            }
+        }
+
+        h1 {
+            color: #A7DBDB;
+            padding: 15px;
+            text-transform: uppercase;
+            font-family: 'Source Sans Pro', sans-serif;
+
+            a {
+                color: inherit;
+                text-decoration: none;
+
+                &:hover {
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+
+.slider {
+    img {
+        max-width: 100%;
+    }
+}
+
+.logo {
+    img {
+        max-width: 360px;
+    }
+}
+
+.page-title {
+    border-bottom: #A7DBDB 1px dashed;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    font-size: 2.2em;
+}
+
+.page-content {
+    position: relative;
+    padding-bottom: 200px;
+    min-height: 100%;
+}
+
+.box {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 3px 10px #999;
+    border: #eee 1px solid;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Custom page footer */
+
+.footer {
+    background-image: url(../images/footer.png);
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.9em;
+    padding-top: 19px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+
+    .footer-logo {
+        max-width: 100%;
+    }
+}
+.container-narrow > hr {
+    margin: 30px 0;
+}
+/* Main marketing message and sign up button */
+
+.jumbotron {
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+/* Supporting marketing content */
+
+.marketing {
+    margin: 40px 0;
+}
+.marketing p + h4 {
+    margin-top: 28px;
+}
+/* Responsive: Portrait tablets and up */
+
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 900px;
+    }
+    /* Remove the padding we set earlier */
+    .header,
+    .marketing,
+    .footer {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /* Space out the masthead */
+    .header {
+        margin-bottom: 30px;
+    }
+    /* Remove the bottom border on the jumbotron for visual effect */
+    .jumbotron {
+        border-bottom: 0;
+    }
+}
+
+.main {
+    margin-bottom: 50px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.float-r {
+    float: right;
+}
+
+.float-l {
+    float: left;
+}
+
+.tags {
+    overflow: hidden;
+    margin-bottom: 10px;
+
+    .tag {
+        display: inline-block;
+        padding: 5px;
+        background: #64C8DC;
+        border-radius: 5px;
+        color: #fff;
+        font-size: 0.8em;
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+.bookmark {
+    color: #FFA500;
+}
+
+.teaser {
+    background: #F5F5F5;
+    padding: 20px 0;
+    border-top: #ddd 1px solid;
+    border-bottom: #ddd 1px solid;
+    img {
+        max-width: 100%;
+    }
+
+    .lead {
+        font-size: 1.3em;
+    }
+
+    h2 {
+        color: #F38630;
+    }
+
+    ul {
+        margin-left: 5%;
+        list-style: none;
+        li {
+            color: #F38630;
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.home-container {
+    .page-title {
+        margin-bottom: 0;
+    }
+}
+
+.about-container {
+    .intro {
+        margin-bottom: 20px;
+        letter-spacing: 1px;
+        line-height: 1.5em;
+    }
+}
+
+/* Filter component styles */
+.filter-component {
+    margin-bottom: 20px;
+}
+
+/* Bookmark component styles */
+.bookmark-component {
+    .item-list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        margin-bottom: 20px;
+
+        i {
+            float: right;
+        }
+
+        li {
+            padding: 10px 0;
+            border-bottom: #64C8DC 1px solid;
+        }
+
+    }
+
+    .buttons {
+        overflow: hidden;
+        margin-bottom: 20px;
+
+        .clear-button,
+        .save-button {
+            float: left;
+            display: block;
+            margin-right: 10px;
+        }
+    }
+
+}

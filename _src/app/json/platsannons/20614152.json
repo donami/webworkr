@@ -1,0 +1,43 @@
+{
+  "platsannons": {
+    "annons": {
+      "annonsid": "20614152",
+      "platsannonsUrl": "http://www.arbetsformedlingen.se/ledigajobb?id=20614152",
+      "annonsrubrik": "Web Development at Spotify",
+      "annonstext": "We are looking for web developers to join our teams throughout Spotify. We need engineers in all areas of web development, from people with excellent front end skills, UI interest through to people with deep knowledge of back end integration.\n\n\nWhat you'll do\n\nDepending on your preferred stack and interest you will be joining one of our highly skilled, cross-functional teams as a web developer. We mainly use JavaScript, CSS, PHP and Python and web developers at Spotify have the opportunity to work on different projects and parts of the organization such as:\n\nBuilding world-class platforms and tools for our global Content Partners that allow for the curation and life-cycle control of all content in Spotify’s vast and fast growing library.\nCreating the user interface (UI) and design language across the full range of different platforms supported by the Spotify client application.\nDeveloping customer service systems ensuring our customers are given the best experience and support.\nConfiguring integrations with payment providers around the world while ensuring the right user experience and product is delivered to our users. \nWorking with the Web API team on Spotify’s Developer site and tooling related to the Web API.\nBeing part of one of our feature teams creating and improving our user-facing feature where additional skills in any of the following: backend/java, android or iOS platforms is a plus.\nAs well as working within a dedicated team, you will also be part of the Spotify Web Guild. Here you will share knowledge and mix with some of the best developers in the business and contribute to the company’s engineering culture. We regularly have hack weeks where you can spend your time working on your own projects to the benefit of the company.\n\nYou will be working from our awesome offices in central Stockholm. We offer relocation packages if you do not currently live in Sweden’s capital.\n\nWho you are\n\nYou have a passion for web development.\nYou love to take on difficult challenges.\nYou are adaptable and resourceful and you are able to develop effective solutions to problems.\nYou understand when it's better to go for the quick win and when it's better to drive through a comprehensive technical solution.\nYou are committed to providing our users with the very best music experience in the world.\nYou understand that development means teamwork and enjoy working with cross functional teams.\nYou are curious and interested in constant learning.\n\nAbout us\n\nAt Spotify we like to challenge one another and constantly sharpen and improve our ways of working. We are strong believers in Agile methods and we are flexible enough to adapt the methods so that they suit what’s needed. We strongly believe that diversity of experience, of perspective, and of background leads to a better workplace for our employees and to a better product.\n\nWe are proud to foster a workplace free from discrimination. We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our users and our creators. This is something we value deeply and we encourage everyone to come be a part of changing the way the world listens to music.",
+      "yrkesbenamning": "Webmaster",
+      "yrkesid": 2525,
+      "publiceraddatum": "2016-11-02T00:00:00+01:00",
+      "antal_platser": "4",
+      "kommunnamn": "Stockholm",
+      "kommunkod": 180,
+      "antalplatserVisa": 1,
+      "anstallningstyp": "Vanlig anställning"
+    },
+    "villkor": {
+      "varaktighet": "Tillsvidare",
+      "arbetstid": "Heltid",
+      "lonetyp": "Fast månads- vecko- eller timlön"
+    },
+    "ansokan": {
+      "webbplats": "http://www.spotify.com/jobs",
+      "sista_ansokningsdag": "2017-01-21T23:59:59+01:00",
+      "ovrigt_om_ansokan": "All CVs must be in English."
+    },
+    "arbetsplats": {
+      "arbetsplatsnamn": "Spotify AB",
+      "postnummer": "11446",
+      "postadress": "Birgerjarlsgatan 61",
+      "postort": "Stockholm",
+      "postland": "Sverige",
+      "land": "Sverige",
+      "besoksadress": "Birger Jarlsgatan 61 10TR",
+      "besoksort": "Stockholm",
+      "epostadress": "abernardi@spotify.com",
+      "hemsida": "http://spoti.fi/jobbapaspotify"
+    },
+    "krav": {
+      "egenbil": false
+    }
+  }
+}
